@@ -35,7 +35,7 @@ API REST para gestión de biblioteca digital desarrollada con FastAPI y PostgreS
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/yourusername/digital-library-api.git
+git clone https://github.com/mdukke09/digital_library.git
 cd digital-library-api
 ```
 
